@@ -1,0 +1,3 @@
+/download_video/video/*
+*/__pycache__
+.idea
